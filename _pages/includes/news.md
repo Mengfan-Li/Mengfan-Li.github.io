@@ -1,4 +1,4 @@
-# 🔥 NewsJournal of Computer Applications
+# 🔥 News
 - *2022.09*: 🎉 《Image detection algorithm of cerebral arterial stenosis by improved Libra region-convolutional neural network》 was accepted by **Journal of Computer Applications**！ Working with Hanqing Liu.
 - *2022.09*: 🎉 Become a PhD Candidate!
 - *2022.04*: 🎉 Successfully graduated with a master's degree！
