@@ -1,3 +1,13 @@
+<!-- 动态打字效果 -->
+<h1 align="center">
+    I don't know why God gave us ten fingers, causes he's only gonna need three: <br>
+    get a goal, get a plan, and get up off your ass.
+</h1>
+<div align="center" ><img order-radius="100px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>
+<!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div> -->
+<br>
+
+
 ## Hi there 👋
 
 - 🚀 **I am Mengfan Li (李梦凡), currently a PhD candidate in Biomedical Engineering at the Academy of Military Medical Sciences, Academy of Military Sciences(军事科学院，军事医学研究院), supervised by Prof. Dongsheng Zhao(赵东升) and Prof. [Xiaochen Bo](https://pubmed.ncbi.nlm.nih.gov/?term=Xiaochen+Bo) (伯晓晨) and Dr. Ming Ni(倪铭).**
