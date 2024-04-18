@@ -1,8 +1,8 @@
 
 #  Publications 
 ## Medical Image Analysis
-
-- `IPEC 2021`[Research on the Detection Method of Breast Cancer Deep Convolutional Neural Network Based on Computer Aid](https://ieeexplore.ieee.org/abstract/document/9421338), Mengfan Li
+- `Journal of Computer Applications` [Image detection algorithm of cerebral arterial stenosis by improved Libra region-convolutional neural network](http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2021071206), Hanqing Liu, Xiaodong Kang, Fuqing Zhang, Xiuyuan Zhao, Jingyi Yang, Xiaotian Wang, **Mengfan Li**
+- `IPEC 2021`[Research on the Detection Method of Breast Cancer Deep Convolutional Neural Network Based on Computer Aid](https://ieeexplore.ieee.org/abstract/document/9421338), **Mengfan Li**
 
 - `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
