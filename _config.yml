@@ -21,9 +21,9 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Mengfan Li (李梦凡)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Academy of Military Medical Sciences"
+  #bio              : "Academy of Military Medical Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
